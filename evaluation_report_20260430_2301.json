@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-30T23:01:49.310222",
+  "summary": {
+    "total_tests": 10,
+    "keyword_passes": 10,
+    "accuracy_pct": 100.0,
+    "faithfulness": 0.95,
+    "relevance": 0.9,
+    "completeness": 0.95,
+    "overall": 0.91,
+    "grade": "EXCELLENT"
+  },
+  "results": [
+    {
+      "question": "What is IPC Section 498A?",
+      "category": "LAW",
+      "status": "PASS",
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "keywords": 0.75,
+      "completeness": 1.0,
+      "overall": 0.94,
+      "answer": "1. **WHAT THE LAW SAYS:** IPC Section 498A addresses the issue of cruelty by a husband or his relatives towards a woman. According to this section, if a woman is subjected to cruelty, the husband or his relatives can face imprisonment for up to three years and may also be fined. The term \"cruelty\" i"
+    },
+    {
+      "question": "How to file an FIR for harassment?",
+      "category": "PROCEDURE",
+      "status": "PASS",
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "keywords": 0.75,
+      "completeness": 1.0,
+      "overall": 0.94,
+      "answer": "1. **WHAT THE LAW SAYS:** To file a First Information Report (FIR) for harassment, particularly sexual harassment, you can refer to specific sections of the Indian Penal Code (IPC). Relevant sections include IPC 354A, which addresses sexual harassment, IPC 509 for outraging modesty, and IPC 354D, wh"
+    },
+    {
+      "question": "What is the POSH Act?",
+      "category": "LAW",
+      "status": "PASS",
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "keywords": 1.0,
+      "completeness": 1.0,
+      "overall": 1.0,
+      "answer": "1. **WHAT THE LAW SAYS:** The POSH Act, formally known as the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, is a law in India aimed at preventing and addressing sexual harassment of women in the workplace. It establishes a framework for the internal compl"
+    },
+    {
+      "question": "Give me a sample complaint letter for stalking",
+      "category": "TEMPLATE",
+      "status": "PASS",
+      "faithfulness": 1.0,
+      "relevance": 0.5,
+      "keywords": 1.0,
+      "completeness": 0.5,
+      "overall": 0.75,
+      "answer": "**WHAT THE LAW SAYS:**  \nUnder Section 354D of the Indian Penal Code (IPC), stalking is defined as the act of following a woman repeatedly, monitoring her online activities, making persistent calls or messages, and showing up at her workplace or home without her consent. This law recognizes stalking"
+    },
+    {
+      "question": "What is IPC 354?",
+      "category": "LAW",
+      "status": "PASS",
+      "faithfulness": 0.5,
+      "relevance": 0.5,
+      "keywords": 0.5,
+      "completeness": 1.0,
+      "overall": 0.62,
+      "answer": "1. **WHAT THE LAW SAYS:** IPC Section 354D pertains to the offense of stalking. It defines stalking as the act of following a woman repeatedly, monitoring her online activities, making persistent calls or messages, and showing up at her workplace or home without her consent. This section is cognizab"
+    },
+    {
+      "question": "How to get a protection order under domestic violence act?",
+      "category": "PROCEDURE",
+      "status": "PASS",
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "keywords": 1.0,
+      "completeness": 1.0,
+      "overall": 1.0,
+      "answer": "1. **WHAT THE LAW SAYS:** Under the Protection of Women from Domestic Violence Act, 2005, domestic violence includes various forms of abuse such as physical, emotional, sexual, verbal, or economic abuse. The law provides for the issuance of a Protection Order, which aims to prevent further violence "
+    },
+    {
+      "question": "Hello how are you?",
+      "category": "GENERAL",
+      "status": "PASS",
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "keywords": 0.75,
+      "completeness": 1.0,
+      "overall": 0.94,
+      "answer": "Hello! I'm here to help you with your questions. How can I assist you today?"
+    },
+    {
+      "question": "What is POCSO Act?",
+      "category": "LAW",
+      "status": "PASS",
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "keywords": 1.0,
+      "completeness": 1.0,
+      "overall": 1.0,
+      "answer": "1. **WHAT THE LAW SAYS:** The POCSO Act, 2012, stands for the Protection of Children from Sexual Offences. This law is designed to protect children under the age of 18 from various forms of sexual abuse, including sexual assault, sexual harassment, and the use of children for pornographic purposes. "
+    },
+    {
+      "question": "What is IPC 354 assault on modesty?",
+      "category": "LAW",
+      "status": "PASS",
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "keywords": 1.0,
+      "completeness": 1.0,
+      "overall": 1.0,
+      "answer": "1. **WHAT THE LAW SAYS:** IPC Section 354 addresses the offense of assault or using criminal force against a woman with the intent to outrage her modesty. According to this law, if someone assaults or applies force to a woman knowing that it is likely to outrage her modesty, they can face serious le"
+    },
+    {
+      "question": "What are my rights if police refuse to file FIR?",
+      "category": "PROCEDURE",
+      "status": "PASS",
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "keywords": 0.75,
+      "completeness": 1.0,
+      "overall": 0.94,
+      "answer": "1. **WHAT THE LAW SAYS**: According to the law, specifically under Section 154 of the Criminal Procedure Code (CrPC), the police are required to register a First Information Report (FIR) for any cognizable offence. This includes serious crimes such as violence, harassment, sexual offences, and more."
+    }
+  ]
+}

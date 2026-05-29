@@ -1,0 +1,60 @@
+Cybercrime Complaint Template
+
+To,  
+The Cyber Cell / Station House Officer (SHO)  
+[Police Station Name]  
+[City], [State]
+
+Subject: Complaint Regarding Cybercrime Offense under IT Act, 2000
+
+Respected Sir/Madam,
+
+I, [Your Name], residing at [Full Address], wish to file a complaint regarding a cybercrime incident committed against me.
+
+Nature of Cybercrime (select one or more):
+- Cyberstalking  
+- Online harassment/threats  
+- Impersonation  
+- Hacking of social media/email accounts  
+- Revenge porn / non-consensual sharing of images  
+- Financial fraud / UPI scam / phishing  
+- Blackmail or extortion  
+- Data theft  
+- Other: [Specify]
+
+Incident Details:
+- Date & Time of Incident(s): [Provide details]  
+- Platform/Website/App involved: [Instagram, WhatsApp, Facebook, etc.]  
+- Username/profile link of accused: [If available]  
+- Description of incident:  
+  [Explain clearly what happened]
+
+Evidence Attached:
+- Screenshots of chats/posts/messages  
+- URLs of offensive content  
+- Email headers  
+- Bank statements (for financial fraud)  
+- Phone numbers involved  
+- Any other digital proof  
+
+Accused Person Details (if known):
+Name: [Name]  
+Email ID: [If available]  
+Phone Number: [If available]  
+Profile links: [URLs]
+
+Device Details (optional but helpful):
+- Your device (Phone/PC model):  
+- Operating System:  
+- IP logs (if applicable):  
+
+Request for Action:
+I request immediate investigation and appropriate action under the IT Act, 2000, and IPC Sections applicable to cyber offences.  
+I also request removal of harmful content and protection from further harassment.
+
+Thank you.  
+Yours sincerely,  
+[Your Name]  
+[Phone Number]  
+[Email ID]  
+[Signature]

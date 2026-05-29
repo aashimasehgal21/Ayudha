@@ -1,0 +1,49 @@
+Cybercrime Reporting Procedure (Women Safety)
+---------------------------------------------
+
+1. What is considered a cybercrime?
+   - Online stalking or harassment
+   - Morphing, editing, or sharing private images
+   - Cyber bullying, threats, blackmail
+   - Impersonation on social media
+   - Non-consensual pornography (revenge porn)
+
+2. Where to Report
+   - National Cyber Crime Portal: https://cybercrime.gov.in
+   - Cyber Helpline Number: 1930
+   - Local Police Station / Cyber Cell
+   - Women's Safety Cyber Cell (State-specific)
+
+3. How to File a Complaint Online
+   - Visit: https://cybercrime.gov.in
+   - Click on “Report Women/Child Related Crime”
+   - Fill details:
+       • Name, mobile number, email  
+       • Description of the incident  
+       • Upload screenshots, links, chats  
+   - Submit the form
+
+4. What Evidence to Collect
+   - Screenshots of messages, posts, emails
+   - URLs of profiles
+   - Phone numbers or email IDs of perpetrators
+   - Chat logs and timestamps
+
+5. FIR Registration
+   - Cyber offences are cognizable
+   - FIR MUST be registered without delay
+   - Police cannot refuse filing in jurisdiction issues
+     (IT Act allows nationwide jurisdiction)
+
+6. Protection for the Victim
+   - Identity confidentiality
+   - No device seizure without acknowledgement
+   - Home recording option for statements
+
+7. Investigation Timeline
+   - Evidence preservation request accepted within 72 hours
+   - Digital forensic analysis is initiated
+
+Official Source:
+https://www.meity.gov.in
+https://indiacode.nic.in/handle/123456789/13116

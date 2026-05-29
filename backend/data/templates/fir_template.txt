@@ -1,0 +1,35 @@
+FIR Complaint Template
+
+To,  
+The Station House Officer (SHO),  
+[Name of Police Station],  
+[City], [State]  
+
+Subject: Request to Register FIR
+
+Respected Sir/Madam,
+
+I, [Your Name], resident of [Address], want to report the following incident:
+
+Date & Time of Incident: [dd/mm/yyyy, approx time]  
+Place of Incident: [Exact location]  
+Details of Incident:  
+[Describe clearly what happened, who was involved, injuries, threats, witnesses]
+
+Persons Involved (if known):  
+[Name/Description]
+
+I request you to kindly register an FIR under the relevant sections of the law and take necessary action.  
+I am ready to cooperate with the investigation.
+
+Attachments (if any):  
+- Photos/Videos  
+- Medical report  
+- Evidence  
+- Witness details  
+
+Thank you.  
+Yours sincerely,  
+[Your Name]  
+[Phone Number]  
+[Signature]
